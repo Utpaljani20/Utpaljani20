@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}SkinBuzz | Result{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/result.css') }}">
+<section class="result-section">
+    <div class="container text-center">
+        <div class="report-box">
+            <a href="{{ url_for('static',filename='uploads/' + filename) }}" target="_blank" title="Click to view Full Image">
+            <img src="{{ url_for('static', filename='uploads/' + filename) }}" class="scan-img">
+            </a>
+            <div class="result-label">Analysis Result</div>
+            <h1 class="prediction-text">{{ result }}</h1>
+            
+            <div class="info-grid">
+                <div class="info-item">
+                    <span>Patient Name</span>
+                    <p>{{ name }}</p>
+                </div>
+                <div class="info-item">
+                    <span>Confidence</span>
+                    <p>{{ "%.1f"|format(confidence * 100) }}%</p>
+                </div>
+                <div class="info-item">
+                    <span>Age</span>
+                    <p>{{ age }} Years</p> </div>
+                <div class="info-item">
+                    <span>Gender</span>
+                    <p>{{ gender }}</p> </div>
+            </div>
+            
+            <p style="margin-top: 40px; font-size: 1rem; color: #bbb;">
+                <strong>ID: #SCAN-{{ scan_id }} | For informational purposes only.</strong>
+            </p>
+            <div class="btn-group-custom">
+                <a href="{{ url_for('upload.download_report', scan_id=scan_id) }}" class="btn-dark-custom">
+                    Download PDF Report
+                </a>
+                <a href="{{ url_for('upload.upload_page') }}" class="btn-light-custom">
+                    New Scan
+                </a>
+            </div>
+  
+            <!--<p style="margin-top: 40px; font-size: 0.8rem; color: #bbb;">
+                ID: #SCAN-{{ scan_id }} | For informational purposes only.
+            </p>-->
+
+        </div>
+    </div>
+</section>
+{% endblock %}

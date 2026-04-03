@@ -1,0 +1,133 @@
+/* Scanner Page Specific Styles */
+
+body { 
+    background-color: #f9f6f2; 
+}
+
+.main {
+    background-color: #f9f6f2;
+    padding-top: 120px;
+    min-height: 90vh;
+    border-radius: 25px;
+}
+
+.scanner-title {
+    font-weight: 800;
+    margin-bottom: 2rem;
+    color: #FE320A;
+}
+
+.glass-card {
+    background: #ffffff;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.05);
+    padding: 40px;
+}
+
+.form-label {
+    font-weight: 600;
+    color: #444;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.form-control {
+    border-radius: 12px;
+    padding: 12px;
+    border: 1.5px solid #eee;
+    transition: 0.3s ease;
+}
+
+.form-control:focus {
+    border-color: #FE320A;
+    box-shadow: 0 0 0 0.2rem rgba(254, 50, 10, 0.1);
+    outline: none;
+}
+
+.helper-text {
+    color: #888;
+    margin-top: 8px;
+    display: block;
+    font-size: 0.85rem;
+}
+
+.btn-scan {
+    background-color: #FE320A;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    cursor: pointer;
+}
+
+.btn-scan:hover {
+    background-color: #e62e09;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(254, 50, 10, 0.3);
+}
+
+.custom-alert {
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    margin-bottom: 1.5rem;
+}
+
+.disclaimer-text {
+    margin-top: 2rem;
+    color: #999;
+    font-size: 0.9rem;
+    font-style: italic;
+}
+/* Unique Humanized Classes */
+.result-wrapper { padding: 100px 0; background: #fafafa; }
+.report-header { margin-bottom: 40px; }
+.section-title { font-weight: 800; color: #1a1a1a; letter-spacing: -1px; }
+.report-id { color: #888; font-size: 0.9rem; }
+
+.report-card { 
+    background: #fff; 
+    border-radius: 20px; 
+    box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+    overflow: hidden;
+}
+
+.report-grid { display: flex; flex-wrap: wrap; padding: 40px; gap: 30px; }
+.visual-pane, .data-pane { flex: 1; min-width: 300px; }
+
+.pane-label { font-size: 0.8rem; text-transform: uppercase; color: #999; letter-spacing: 1px; margin-bottom: 15px; font-weight: 700; }
+.image-frame img { width: 100%; border-radius: 12px; border: 1px solid #eee; }
+
+.details-list { list-style: none; padding: 0; }
+.details-list li { margin-bottom: 8px; font-size: 1.05rem; }
+
+.ai-verdict { margin-top: 30px; padding: 20px; background: #fff5f2; border-radius: 12px; border-left: 5px solid #FE320A; }
+.disease-name { display: block; font-size: 1.8rem; font-weight: 800; color: #FE320A; margin-bottom: 10px; }
+
+.report-footer { background: #fcfcfc; padding: 20px 40px; border-top: 1px solid #eee; }
+.action-buttons { display: flex; gap: 15px; }
+
+.btn-main { background: #FE320A; color: #fff; padding: 15px 30px; border-radius: 10px; font-weight: 700; flex: 1; text-align: center; transition: 0.3s; }
+.btn-sub { 
+    border: 2px solid #ddd; 
+    color: #666; 
+    padding: 15px 30px; 
+    border-radius: 10px; 
+    font-weight: 700; 
+    text-decoration: none; 
+    transition: 0.3s; }
+.btn-main:hover { 
+    transform: translateY(-3px); 
+    box-shadow: 0 10px 20px rgba(254, 50, 10, 0.2); 
+    color: #fff; 
+}
+
+.medical-disclaimer { 
+    margin-top: 30px; 
+    color: #999; 
+    font-size: 0.85rem; 
+}

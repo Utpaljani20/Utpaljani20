@@ -1,0 +1,89 @@
+
+.result-section {
+     padding: 120px 0; 
+     background: #f9f6f2; 
+     color: #222;
+ }
+.report-box { 
+    max-width: 600px;
+     margin: 0 auto; 
+}
+.scan-img { 
+    width: 100%;            /* Responsive rakhega */
+    max-width: 300px;       /* Isse zyada badi nahi hogi photo */
+    height: 250px;          /* Ek fix height */
+    object-fit: cover;      /* Photo stretch nahi hogi, sahi se fit hogi */
+    border-radius: 15px;    /* Corners thode round rahenge */
+    margin: 0 auto 25px;    /* Center mein alignment aur niche se gap */
+    display: block;         /* Center karne ke liye zaroori hai */
+    border: 4px solid #f0f0f0
+    /*width: 100%; 
+    border-radius: 20px; 
+    margin-bottom: 30px; 
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    */ 
+}
+.result-label { 
+    font-size: 0.9rem; 
+    text-transform: uppercase; 
+    color: #888;
+    font-weight: 700; 
+    margin-bottom: 5px; 
+}
+.prediction-text {
+     font-size: 2.5rem;
+      font-weight: 800; 
+      color: #FE320A; 
+      line-height: 1.2; 
+      margin-bottom: 20px;
+}
+.info-grid {
+     display: grid; 
+     grid-template-columns: 1fr 1fr; 
+     gap: 20px; 
+     margin-bottom: 40px; 
+     text-align: left;
+      background: #f8f8f8;
+       padding: 20px; 
+       border-radius: 15px;
+}
+.info-item span { 
+    display: block; 
+    font-size: 0.8rem; 
+    color: #999; 
+}
+.info-item p {
+    margin: 0;
+    font-weight: 600; 
+    font-size: 1.1rem; 
+}
+.btn-group-custom { 
+    display: flex;
+     gap: 15px;
+ }
+.btn-dark-custom { 
+    background: #222; 
+    color: #fff; 
+    flex: 1; 
+    padding: 18px; 
+    border-radius: 12px; 
+    text-decoration: none; 
+    font-weight: 700;
+     transition: 0.3s;
+     }
+.btn-light-custom {
+     background: #eee;
+    color: #222;
+     flex: 1;
+     padding: 18px; 
+    border-radius: 12px; 
+    text-decoration: none; 
+    font-weight: 700; 
+    transition: 0.3s; 
+    text-align: center; 
+}
+.btn-dark-custom:hover { 
+    background: #FE320A;
+     color: #fff; 
+}
+

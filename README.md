@@ -1,11 +1,11 @@
 # 💫 Utpal Jani | Data Analyst
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
 ---
-
+### 👋 About Me
 I am a **Data Analyst** with a strong passion for turning raw, complex data into clear, actionable insights and solving real-world business problems. 
 
 - 🛠️ **What I Do:** Build end-to-end data pipelines, interactive dashboards, and exploratory data analyses using **Python, SQL, Power BI, and Excel**.
@@ -60,14 +60,14 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamsatyam1215-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsatyam1215-cmd&theme=tokyonight&hide_border=true" alt="Satyam's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utpaljani20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utpal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utpaljani20&theme=tokyonight&hide_border=true" alt="Utpal's Streak Stats" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsatyam1215-cmd&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utpaljani20&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="48%" />
 </div>
 
 ---

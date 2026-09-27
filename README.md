@@ -59,18 +59,20 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
 
 ### 📊 GitHub Analytics & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utpaljani20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utpal's GitHub Stats" width="48%" />
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utpaljani20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utpal's GitHub Stats" width="48%" />-->
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utpaljani20&theme=tokyonight&hide_border=true" alt="Utpal's Streak Stats" width="48%" />
 </div>
-
+<!--
 <br />
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utpaljani20&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="48%" />
 </div>
+-->
 
 ---
+
 
 <div align="center">
   <i>"Without big data, you are blind and deaf and in the middle of a freeway." — Geoffrey Moore</i>

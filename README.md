@@ -8,10 +8,10 @@
 ### 👋 About Me
 I am a **Data Analyst** with a strong passion for turning raw, complex data into clear, actionable insights and solving real-world business problems. 
 
-- 🛠️ **What I Do:** Build end-to-end data pipelines, interactive dashboards, and exploratory data analyses using **Python, SQL, Power BI, and Excel**.
-- 🎯 **Current Focus:** Deepening expertise in **Advanced Power BI (DAX & Power Query)**, complex **SQL querying**, statistical data manipulation with **Pandas/NumPy**, and executive data storytelling.
-- 💡 **Philosophy:** Every dataset has a story to tell—my goal is to uncover that narrative to drive better business decisions.
-- 🌱 **Hobbies:** Documenting my learning journey, creating technical content, and continuously learning new analytics frameworks.
+-  **What I Do:** Build end-to-end data pipelines, interactive dashboards, and exploratory data analyses using **Python, SQL, Power BI, and Excel**.
+- **Current Focus:** Deepening expertise in **Advanced Power BI (DAX & Power Query)**, complex **SQL querying**, statistical data manipulation with **Pandas/NumPy**, and executive data storytelling.
+- **Philosophy:** Every dataset has a story to tell—my goal is to uncover that narrative to drive better business decisions.
+- **Hobbies:** Documenting my learning journey, creating technical content, and continuously learning new analytics frameworks.
 
 ---
 
